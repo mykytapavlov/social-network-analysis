@@ -383,16 +383,16 @@ label_propagation_communities = list(nx.algorithms.community.label_propagation_c
 * [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/#amazon)
 
 ### Packages
-[NetworkX: Network Analysis in Python](https://networkx.github.io/)
+* [NetworkX: Network Analysis in Python](https://networkx.github.io/)
 
 ### Videos
-[Rob Chew, Peter Baumgartner | Connected: A Social Network Analysis Tutorial with NetworkX](https://youtu.be/7fsreJMy_pI)
+* [Rob Chew, Peter Baumgartner | Connected: A Social Network Analysis Tutorial with NetworkX](https://youtu.be/7fsreJMy_pI)
 [Repository Link](https://github.com/rtidatascience/connected-nx-tutorial)
 
-[Introduction to SNA](https://youtu.be/wwam5UZO7os)
+* [Introduction to SNA](https://youtu.be/wwam5UZO7os)
 
 ### Books
-[Networks, Crowds, and Markets:Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+* [Networks, Crowds, and Markets:Reasoning About a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 ### Browser Games
-[The Wisdom and Madness of Crowds](https://ncase.me/crowds/)
+* [The Wisdom and Madness of Crowds](https://ncase.me/crowds/)
