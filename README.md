@@ -24,14 +24,14 @@ Image above created with [Gephi](https://gephi.org/) based on [GitHub Social Net
 ### networkx
 * python package
 * open source
-* 40 algorithms for graph analisys
+* 40 algorithms for graph analysis
 * 10 millions vertices / 100 millions edges
 
 ### neo4j
 * graph database (with Python API)
 * open source (community / enterprise)
 * python API
-* 15 algorithms for graph analisys
+* 15 algorithms for graph analysis
 * 36 billions vertices (community)
 
 ### Apache Giraph
